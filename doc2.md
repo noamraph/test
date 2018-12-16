@@ -2,4 +2,6 @@
 
 It is extremely interesting.
 
+Here's a dog:
+
 ![](image.png)
