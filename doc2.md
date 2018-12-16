@@ -2,4 +2,4 @@
 
 It is extremely interesting.
 
-[[image.png]]
+![](image.png)
